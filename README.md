@@ -4,4 +4,4 @@ this project uses **python** and **pyQPanda3** to predict weather outcomes using
 
 ## how to run
 1. Install pyQPanda3.
-2. run `python w.py` in your terminal.
+2. run `python weather.py` in your terminal.
